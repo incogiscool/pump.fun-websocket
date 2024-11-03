@@ -1,3 +1,7 @@
+# Installation
+
+To install the dependencies, run `npm install` in the terminal.
+
 # Running
 
 To run the script, just run `node index.js` in the terminal.
